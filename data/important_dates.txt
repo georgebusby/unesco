@@ -1,0 +1,11 @@
+age Paleolithic 10000 50000 slategrey
+age Neolithic 3000 10200 yellow4
+age Bronze_Age 1200 3300 darkgoldenrod
+age Iron_Age 0 1200 firebrick
+line end_of_Ice_Age 11700 11700 ghostwhite
+line Last_Glacial_Maximum 22000 22000 turquoise4
+line cuneiform 3250 3250 darkmagenta
+line hieroglyphs 3200 3200 forestgreen
+bar Neanderthals 30000 500000 brown4
+bar Hunter-gatherers 5000 80000 hotpink
+bar Farmers -2000 10000 springgreen

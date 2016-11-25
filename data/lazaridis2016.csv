@@ -1,0 +1,282 @@
+Genetic ID,Alternative ID,Latitude,Longitude,Genetic Sex Determination,Analysis Label,Detailed Label,Source (Library components if this study),UDG treatment (minus=untreated; half=treated except in last nucleotides; plus=treated over all nucleotides),Data type,"Date: One of two formats: (Format 1) 95.4% CI calibrated radiocarbon age (Conventional Radiocarbon Age, Lab number) e.g. 5983-5747 calBCE (6980±50 BP, Beta-226472) or (Format 2) Archaeological context date, e.g. 2500-1700 BCE",Location,Country,Coverage,SNPs,"mitochondrial DNA haplogroup determination (for newly reported sample, only given for individuals with >10x mtDNA coverage)"
+RISE500,6652-38,53.456,85.447,F,Steppe_MLBA,Andronovo,AllentoftNature2015,minus,Shotgun,..,Kytmanovo,Russia,1.818,904483,U4d1
+RISE471,burial 1,48.17,10.814,M,Europe_LNBA,Germany_Bronze_Age,AllentoftNature2015,minus,Shotgun,..,Untermeitingen,Germany,0.101,116341,J1c1b
+RISE559,"F0174, gr 4",48.33,10.895,F,Europe_LNBA,Bell_Beaker_Germany,AllentoftNature2015,minus,Shotgun,..,Augsburg,Germany,0.127,146427,H46
+RISE560,"F0187, gr 3",48.33,10.895,M,Europe_LNBA,Bell_Beaker_Germany,AllentoftNature2015,minus,Shotgun,..,Augsburg,Germany,0.048,58027,U5a1a1
+RISE562,"F0228, obj. 136/92 = gr.9",48.663,12.707,F,Europe_LNBA,Bell_Beaker_Germany,AllentoftNature2015,minus,Shotgun,..,Landau an der Isar,Germany,0.057,68118,H2a1e
+RISE563,"F0234, obj. 8",48.691,13.016,M,Europe_LNBA,Bell_Beaker_Germany,AllentoftNature2015,minus,Shotgun,..,Osterhofen-Altenmarkt,Germany,0.329,340319,K1c1
+RISE564,"F0241, obj. 25",48.691,13.016,M,Europe_LNBA,Bell_Beaker_Germany,AllentoftNature2015,minus,Shotgun,..,Osterhofen-Altenmarkt,Germany,0.079,93003,H-T16311C
+RISE566,"F0521, A01168, gr. 14",50.118,14.258,M,Europe_LNBA,Bell_Beaker_Czech,AllentoftNature2015,minus,Shotgun,..,Knezeves,Czech Republic,0.103,119789,H
+RISE568,"F0525, A01623, gr. 16",50.19,14.158,F,Europe_LNBA,Bell_Beaker_Czech,AllentoftNature2015,minus,Shotgun,..,Brandysek,Czech Republic,0.053,63391,H44a
+RISE569,"F0527, A01643, gr. 35?",50.19,14.158,F,Europe_LNBA,Bell_Beaker_Czech,AllentoftNature2015,minus,Shotgun,..,Brandysek,Czech Republic,0.98,736039,H1af
+RISE577,"F0565, gr. 238",50.16,14.311,F,Europe_LNBA,Unetice_EBA,AllentoftNature2015,minus,Shotgun,..,Velke Prilepy,Czech Republic,1.048,738363,T2b
+RISE586,"F0597, gr. 6",48.799,17.022,F,Europe_LNBA,Unetice_EBA,AllentoftNature2015,minus,Shotgun,..,Moravska Nova Ves,Czech Republic,0.176,195448,K1b1a
+RISE00,grave,59.408,27.026,F,Europe_LNBA,Corded_Ware_Estonia,AllentoftNature2015,minus,Shotgun,..,Sope,Estonia,0.91,656226,H5a1
+RISE546,"Kurgan 1, grave 13",46.539,43.699,M,Steppe_EMBA,Yamnaya_Kalmykia,AllentoftNature2015,minus,Shotgun,..,Temrta IV,Russia,0.151,167261,U5a1d2b
+RISE548,"Kurgan 1, grave 6",46.539,43.699,M,Steppe_EMBA,Yamnaya_Kalmykia,AllentoftNature2015,minus,Shotgun,..,Temrta IV,Russia,1.089,733271,U4
+RISE412,#10,40.38,45.18,F,Armenia_MLBA,Armenia_LBA,AllentoftNature2015,minus,Shotgun,"1193-945 calBCE (2885±31 BP, UBA-27940)",Noratus,Armenia,0.105,120701,..
+RISE413,#11,40.14,45.26,M,Armenia_MLBA,Armenia_MBA,AllentoftNature2015,minus,Shotgun,"1906-1698 calBCE (3493±34 BP, UBA-28941)",Nerquin Getashen,Armenia,0.034,26038,..
+RISE416,#14,40.14,45.26,M,Armenia_MLBA,Armenia_MBA,AllentoftNature2015,minus,Shotgun,"1643-1445 calBCE (3259±40 BP, UBA-27942)",Nerquin Getashen,Armenia,0.025,29941,..
+RISE423,#21,40.14,45.26,M,Armenia_MLBA,Armenia_MBA,AllentoftNature2015,minus,Shotgun,"1402-1211 calBCE (3038±32 BP, UBA-27944)",Nerquin Getashen,Armenia,0.642,391520,..
+RISE407,#5,40.15,45.86,F,Armenia_MLBA,Armenia_LBA,AllentoftNature2015,minus,Shotgun,"1115-895 calBCE (2827±40 BP, UBA-27938)",Norabak,Armenia,0.249,188600,..
+RISE408,#6,40.15,45.86,M,Armenia_MLBA,Armenia_LBA,AllentoftNature2015,minus,Shotgun,"1209-1009 calBCE (2908±32 BP, UBA-27939)",Norabak,Armenia,0.106,119508,..
+RISE396,tomb 6 skeleton 1,39.2,46.4,F,Armenia_MLBA,Armenia_LBA,AllentoftNature2015,minus,Shotgun,"1192-937 calBCE (2879±31 BP, OxA-31001)",Kapan,Armenia,0.056,66403,..
+RISE397,tomb 6 skeleton 2,39.2,46.4,M,Armenia_MLBA,Armenia_LBA,AllentoftNature2015,minus,Shotgun,"1048-855 calBCE (2807±31 BP, OxA-31002)",Kapan,Armenia,0.241,247537,..
+RISE247,ID 3437,47.327,18.962,M,Europe_LNBA,Vatya,AllentoftNature2015,minus,Shotgun,"1746-1611 calBCE (3372±29 BP, OxA-29769)",Százhalombatta-Földvár,Hungary,0.273,237322,H11a
+RISE487,T56,45.26,10.379,M,Europe_MNChL,Remedello_BA,AllentoftNature2015,minus,Shotgun,"3483-3107 calBCE (4557±28 BP, OxA-X-2621)",Remedello di Sotto,Italy,0.223,239530,H2a
+RISE483,ID 106/159 Q2 (P27),47.341,18.896,F,Europe_LNBA,Vatya,AllentoftNature2015,minus,Shotgun,2000-1500 BCE,Erd 4,Hungary,0.121,134337,H2a1
+RISE71,"PMD 57, I",56.676,10.034,F,Europe_LNBA,Nordic_LN,AllentoftNature2015,minus,Shotgun,"2196-2023 calBCE (3701±26 BP, OxA-28269)",Falshöj,Denmark,0.26,203604,H3b
+RISE47,N 358 grave 3 skeleton 8,56.97,9.552,M,Europe_LNBA,Nordic_BA,AllentoftNature2015,minus,Shotgun,"1499-1324 calBCE (3153±26 BP, OxA-28258)",Sebber skole,Denmark,0.105,103513,I
+RISE435,3/2,48.932,12.259,F,Europe_LNBA,Corded_Ware_Germany,AllentoftNature2015,minus,Shotgun,"2863-2498 calBCE (4094±33 BP, UBA-27947)",Tiefbrunn,Germany,0.043,50680,J1b1a1
+RISE486,T78,45.26,10.379,M,Europe_MNChL,Remedello_BA,AllentoftNature2015,minus,Shotgun,"2134-1773 calBCE (3595±55 BP, ETH-12913)",Remedello di Sotto,Italy,0.289,203575,J1c1b
+RISE386,burial 4,52.453,55.16,M,Steppe_MLBA,Sintashta_MBA,AllentoftNature2015,minus,Shotgun,"2298-2045 calBCE (3775±34 BP, OxA-30991)",Bulanovo,Russia,0.415,315156,J1c1b1a
+RISE61,"PMD 17, V, N chamber lower layer",55.703,11.855,M,Europe_LNBA,Nordic_MN_B,AllentoftNature2015,minus,Shotgun,"2851-2492 calBCE (4071±27 BP, OxA-28296)",Kyndelöse,Denmark,0.318,293152,J1c4
+RISE254,ID 4091,47.327,18.962,M,Europe_LNBA,Vatya,AllentoftNature2015,minus,Shotgun,"2128-1909 calBCE (3631±29 BP, OxA-29842)",Százhalombatta-Földvár,Hungary,0.038,42943,J1c9
+RISE511,6136-6,54.584,90.775,F,Steppe_EMBA,Afanasievo,AllentoftNature2015,minus,Shotgun,"2909-2679 calBCE (4224±36 BP, OxA-31568)",Bateni,Russia,3.755,1102979,J2a2a
+RISE510,6136-9,54.584,90.775,F,Steppe_EMBA,Afanasievo,AllentoftNature2015,minus,Shotgun,"2851-2468 calBCE (4040±45 BP, OxA-31222)",Bateni,Russia,0.236,249386,J2a2a
+RISE392,kurgan 4 burial B,53.876,59.076,M,Steppe_MLBA,Sintashta_MBA,AllentoftNature2015,minus,Shotgun,"2126-1896 calBCE (3626±33 BP, OxA-30999)",Stepnoe VII,Russia,0.598,526675,J2b1a2a
+RISE373,Grave # 123,46.22,20.199,F,Europe_LNBA,Maros,AllentoftNature2015,minus,Shotgun,"1886-1696 calBCE (3476±30 BP, OxA-31104)",Szöreg - C (Sziv Utca),Hungary,0.282,259708,K1a2a
+RISE94,grave 26:I,56.025,14.233,M,Europe_LNBA,BattleAxe_Sweden,AllentoftNature2015,minus,Shotgun,"2621-2472 calBCE (4025±30 BP, OxA-29033)",Viby,Sweden,0.927,619914,K1a2a
+RISE179,"barrow I grave 5:1, gallery grave",55.397,13.6,M,Europe_LNBA,Nordic_LN,AllentoftNature2015,minus,Shotgun,"2010-1776 calBCE (3556±28 BP, OxA-29193)",Abekås I,Sweden,0.045,50762,K1a3
+RISE154,grave 3,50.948,16.943,F,Europe_LNBA,Unetice_EBA,AllentoftNature2015,minus,Shotgun,"1925-1765 calBCE (3522±24 BP, Uba-16555)",Szczepankowice,Poland,0.178,171391,K1a4a1
+RISE98,"grave 49, S skeleton",55.381,13.445,M,Europe_LNBA,Nordic_LN,AllentoftNature2015,minus,Shotgun,"2275-2032 calBCE (3736±32 BP, OxA-28987)",L Beddinge 56,Sweden,6.125,1125643,K1b1a1
+RISE97,grave 72(II),55.557,13.059,F,Europe_LNBA,Nordic_LN,AllentoftNature2015,minus,Shotgun,"2025-1885 calBCE (3590±29 BP, OxA-28986)",Fredriksberg,Sweden,0.746,580367,K2a5
+RISE555,CGG_2_011887,48.716,44.5,M,Steppe_EMBA,Russia_EBA,AllentoftNature2015,minus,Shotgun,"2857-2497 calBCE (4082±28 BP, AAR-20358)",Stalingrad Quarry,Russia,0.218,232118,N1a1a-T152C
+RISE391,kurgan 7 burial 36,50.593,56.83,F,Steppe_MLBA,Sintashta_MBA,AllentoftNature2015,minus,Shotgun,"2120-1887 calBCE (3612±34 BP, OxA-30998)",Tanabergen II,Kazakhstan,0.056,55088,N1a1a1a1
+RISE175,barrow I grave 14:1,55.397,13.6,M,Europe_LNBA,Nordic_BA,AllentoftNature2015,minus,Shotgun,"1395-1132 calBCE (3025±30 BP, OxA-28998)",Abekås I,Sweden,0.104,112552,T1a1
+RISE484,ID 772/1170 Q3 (P28),47.341,18.896,F,Europe_LNBA,Vatya,AllentoftNature2015,minus,Shotgun,2000-1500 BCE,Erd 4,Hungary,0.152,168871,T1a1
+RISE210,Cranium VI,55.997,14.104,M,Europe_LNBA,Nordic_BA,AllentoftNature2015,minus,Shotgun,"1432-1292 calBCE (3105±28 BP, OxA-29654)",Ängamöllan,Sweden,0.046,51095,T2a1a
+RISE547,"Kurgan 1, grave 9",46.539,43.699,M,Steppe_EMBA,Yamnaya_Kalmykia,AllentoftNature2015,minus,Shotgun,"2887-2634 calBCE (4175±35 BP, GrA-58960)",Temrta IV,Russia,0.729,628581,T2a1a
+RISE552,"Kurgan 4, grave 8",46.615,43.334,M,Steppe_EMBA,Yamnaya_Kalmykia,AllentoftNature2015,minus,Shotgun,"2849-2143 calBCE (3940±90 BP, IGAN-4079)",Ulan IV,Russia,2.839,971022,T2a1a
+RISE276,bog find 1940,55.914,11.565,M,Europe_LNBA,Nordic_LBA,AllentoftNature2015,minus,Shotgun,"794-547 calBCE (2525±25 BP, OxA-30485)",Trundholm mose II,Denmark,0.083,92841,T2b
+RISE374,Grave # 147,46.22,20.199,M,Europe_LNBA,Maros,AllentoftNature2015,minus,Shotgun,"1866-1619 calBCE (3402±34 BP, OxA-30989)",Szöreg - C (Sziv Utca),Hungary,0.149,146423,T2b
+RISE479,ID 1129/1706 Q3 (P23),47.341,18.896,M,Europe_LNBA,Vatya,AllentoftNature2015,minus,Shotgun,2000-1500 BCE,Erd 4,Hungary,1.4,884093,T2b
+RISE349,Grave # 33,46.356,20.985,F,Europe_LNBA,Hungary_MBA,AllentoftNature2015,minus,Shotgun,"2034-1784 calBCE (3588±34 BP, OxA-30987)",Battonya Vörös Oktober,Hungary,0.082,96499,T2b3
+RISE509,6136-5,54.584,90.775,F,Steppe_EMBA,Afanasievo,AllentoftNature2015,minus,Shotgun,"2887-2677 calBCE (4186±27 BP, OxA-31221)",Bateni,Russia,0.974,703520,T2c1a2
+RISE431,"Barrow 4, skeleton 2",52.143,16.538,M,Europe_LNBA,Corded_Ware_Proto_Unetice_Poland,AllentoftNature2015,minus,Shotgun,"2286-2048 calBCE (3762±27 BP, OxA-27967)",Leki Male,Poland,0.111,124341,T2e
+RISE394,burial 6 skeleton 1,52.453,55.16,F,Steppe_MLBA,Sintashta_MBA,AllentoftNature2015,minus,Shotgun,"1949-1754 calBCE (3532±34 BP, OxA-30993)",Bulanovo,Russia,0.363,336702,U2e1e
+RISE395,kurgan 25 burial 12,52.637,59.536,F,Steppe_MLBA,Sintashta_MBA,AllentoftNature2015,minus,Shotgun,"1960-1756 calBCE (3540±33 BP, OxA-30996)",Bol'shekaraganskii,Russia,2.397,888393,U2e1h
+RISE503,6652-41,53.456,85.447,F,Steppe_MLBA,Andronovo,AllentoftNature2015,minus,Shotgun,"1727-1511 calBCE (3328±38 BP, OxA-31445)",Kytmanovo,Russia,0.879,678907,U2e2
+RISE434,3/1,48.932,12.259,M,Europe_LNBA,Corded_Ware_Germany,AllentoftNature2015,minus,Shotgun,"2880-2630 calBCE (4161±34 BP, UBA-27946)",Tiefbrunn,Germany,0.1,111108,U4
+RISE109,grave 1044,50.98,17.068,F,Europe_LNBA,Unetice_EBA,AllentoftNature2015,minus,Shotgun,"1954-1772 calBCE (3544±26 BP, UB-16557)",Wojkowice,Poland,0.215,211732,U4
+RISE505,6652-42,53.456,85.447,F,Steppe_MLBA,Andronovo,AllentoftNature2015,minus,Shotgun,"1746-1626 calBCE (3391±27 BP, OxA-31216)",Kytmanovo,Russia,5.277,1170027,U4a1b
+RISE507,5910-2A,51.498,85.97,F,Steppe_EMBA,Afanasievo,AllentoftNature2015,minus,Shotgun,"3322-2923 calBCE (4423±29 BP, OxA-31219)",River Kuyum,Russia,0.155,170131,U5a1a1
+RISE508,5910-2B,51.498,85.97,F,Steppe_EMBA,Afanasievo,AllentoftNature2015,minus,Shotgun,"3331-2935 calBCE (4442±29 BP, OxA-31220)",River Kuyum,Russia,0.339,322453,U5a1a1
+RISE150,grave 02,50.918,16.957,F,Europe_LNBA,Unetice_EBA,AllentoftNature2015,minus,Shotgun,"1885-1693 calBCE (3469±31 BP, Ua-42401)",Przeclawice,Poland,2.653,654921,U5a1b1
+RISE240,"kurgan 1, grave 11",46.58,43.678,F,Steppe_EMBA,Yamnaya_Kalmykia,AllentoftNature2015,minus,Shotgun,"2880-2632 calBCE (4160±30 BP, GrA-45038)",Sukhaya Termista I,Russia,0.201,212900,U5a1d1
+RISE550,"Kurgan 1, grave 3",46.556,43.676,M,Steppe_EMBA,Yamnaya_Kalmykia,AllentoftNature2015,minus,Shotgun,"3334-2635 calBCE (4312±94 BP, IGAN-2880)",Peshany V,Russia,0.521,476829,U5a1i
+RISE480,ID 1039/1550 Q1 (P24),47.341,18.896,F,Europe_LNBA,Vatya,AllentoftNature2015,minus,Shotgun,1700-1500 BCE,Erd 4,Hungary,0.148,158897,U5a2a
+RISE371,Grave # 105,46.22,20.199,F,Europe_LNBA,Maros,AllentoftNature2015,minus,Shotgun,"2136-1941 calBCE (3653±32 BP, OxA-30988)",Szöreg - C (Sziv Utca),Hungary,0.045,53698,U5a2b
+RISE436,3/3,48.932,12.259,M,Europe_LNBA,Corded_Ware_Germany,AllentoftNature2015,minus,Shotgun,"2868-2580 calBCE (4124±31 BP, UBA-27948)",Tiefbrunn,Germany,0.076,63030,U5b1c2
+RISE446,burial 13 male,50.009,10.18,M,Europe_LNBA,Corded_Ware_Germany,AllentoftNature2015,minus,Shotgun,"2829-2465 calBCE (4015±38 BP, UBA-27950)",Bergrheinfeld,Germany,0.172,187862,U5b1c2
+RISE489,T65,45.26,10.379,M,Europe_MNChL,Remedello_BA,AllentoftNature2015,minus,Shotgun,"2908-2578 calBCE (4185±70 BP, ETH-12188)",Remedello di Sotto,Italy,0.548,510496,X2c1
+Ust_Ishim,UstIshim,57.7,71.1,M,Ust_Ishim,Ust_Ishim_HG,FuNature2014,half,Shotgun,"45530-40610 calBCE [46064-40920 calBCE (41400±1300 BP, OxA-25516); 46364-40844 calBCE  (41400±1400 BP, OxA-30190)]","Ust'-Ishim, Siberia",Russia,40,1240000,..
+ATP16,ATP16,42.3525,-3.518333333,F,Europe_MNChL,Iberia_Chalcolithic,GuntherPNAS2015,minus,Shotgun,"3261-2916 calBCE (4400±30, Beta-368289)","El Portalon Cave, Sierra de Atapuerca",Spain,1.184,839051,..
+ATP2,ATP2,42.3525,-3.518333333,M,Europe_MNChL,Iberia_Chalcolithic,GuntherPNAS2015,minus,Shotgun,"2899-2678 calBCE (4210±30, Beta-386394)","El Portalon Cave, Sierra de Atapuerca",Spain,4.484,1205481,..
+ATP9,ATP9,42.3525,-3.518333333,F,Iberia_BA,Iberia_Bronze_Age,GuntherPNAS2015,minus,Shotgun,"1750-1618 calBCE (3390±30, Beta-386395)","El Portalon Cave, Sierra de Atapuerca",Spain,0.461,449162,..
+Matojo,Matojo,42.3525,-3.518333333,M,Europe_MNChL,Iberia_Chalcolithic,GuntherPNAS2015,minus,Shotgun,"3010-3879 calBCE (4300±30, Beta-368295)","El Portalon Cave, Sierra de Atapuerca",Spain,0.087,102497,..
+Bichon,Bichon,47.10,6.87,M,Switzerland_HG,Switzerland_HG,JonesNatureCommunications2015,minus,Shotgun,"11820-11610 calBCE (11855±50 BP, OxA-27763)",Grotte du Bichon,Switzerland,8.443,1223510,..
+KK1,Kotias,42.28,43.28,M,CHG,CHG,JonesNatureCommunications2015,minus,Shotgun,"7940-7600 calBCE [7938-7580 calBCE (8665±65 BP, RTT-5246); 7946-7612 calBCE (8745±40, OxA-28256)]",Kotias Klde,Georgia,12.482,1230084,..
+SATP,Satsurblia,42.38,42.59,M,CHG,CHG,JonesNatureCommunications2015,minus,Shotgun,"11430-11180 calBCE (11415±50 BP, OxA-34632)",Satsurblia,Georgia,1.191,839553,..
+Stuttgart,Stuttgart,48.78,9.18,F,Europe_EN,Stuttgart,LazaridisNature2014,half,Shotgun,"5310-5070 calBCE (6246±30 BP, MAMS-24635)","Viesenhaeuser Hof, Stuttgart-Muehlhausen",Germany,19,1240000,T2c1b
+Loschbour,Loschbour,49.81,6.4,M,WHG,Loschbour_HG,LazaridisNature2014,Mixed:half+plus,Shotgun,"6210-5990 calBCE (7205±50 BP, OxA-7738)",Echternach,Luxembourg,22,1240000,U5b1a
+I0172,ESP24,51.42,11.68,M,Europe_MNChL,Esperstedt_MN,MathiesonNature2015,Mixed:half+plus,1240K.capture,3360-3086 calBCE (Er-8699),Esperstedt,Germany,25.372,1158724,T2b
+I0174,BAM25,46.2,18.7,M,Europe_EN,Starcevo_EN,MathiesonNature2015,plus,1240K.capture,"5702-5536 calBCE (6695±40BP, MAMS-11939 )","Alsonyek-Bataszek, Mernoki telep",Hungary,0.224,231471,N1a1a1
+I0118,ALB3,51.45,11.63,F,Europe_LNBA,Alberstedt_LN,MathiesonNature2015,plus,1240K.capture,"2471-2246 calBCE (3892±32 BP, MAMS-21492)",Alberstedt,Germany,11.371,1089011,HV
+I0059,BZH6,51.82,10.91,F,Europe_LNBA,BenzigerodeHeimburg_LN,MathiesonNature2015,Mixed:half+plus,1240K.capture,"2337-2138 calBCE (3796±30 BP, MAMS-21486)",Benzingerode-Heimburg,Germany,1.303,752357,H1
+I0104,ESP11,51.42,11.68,M,Europe_LNBA,Corded_Ware_Germany,MathiesonNature2015,plus,1240K.capture,"2559-2296 calBCE (3927±37 BP, MAMS-21487)",Esperstedt,Germany,4.184,990775,U4b1a1a1
+I0103,ESP16,51.42,11.68,F,Europe_LNBA,Corded_Ware_Germany,MathiesonNature2015,Mixed:half+plus,1240K.capture,"2578-2468 calBCE (4000±31 BP, MAMS-21488)",Esperstedt,Germany,17.528,1109474,W6a
+I0049,ESP22,51.42,11.68,F,Europe_LNBA,Corded_Ware_Germany,MathiesonNature2015,plus,1240K.capture,"2464-2210 calBCE (3867±35 BP, MAMS-21489)",Esperstedt,Germany,0.649,534318,X2b4
+I0117,ESP29,51.42,11.68,F,Europe_LNBA,Unetice_EBA,MathiesonNature2015,Mixed:half+plus,1240K.capture,"2272-2039 calBCE (3743±25 BP, MAMS-21496)",Esperstedt,Germany,1.902,874673,I3a
+I0409,Troc1,42.5,0.5,F,Europe_EN,Iberia_EN,MathiesonNature2015,plus,1240K.capture,"5310-5218 calBCE (6280±25 BP, MAMS-16159)",Els Trocs,Spain,0.686,528513,J1c3
+I0412,Troc5,42.5,0.5,M,Europe_EN,Iberia_EN,MathiesonNature2015,half,1240K.capture,"5308-5080 calBCE (6249±28 BP, MAMS-16164)",Els Trocs,Spain,13.785,1025420,N1a1a1
+I0054,UWS4,51.66,11.53,F,Europe_EN,LBK_EN,MathiesonNature2015,plus,1240K.capture,"5222-5022 calBCE (6180±34 BP, MAMS-21485)",Unterwiederstedt,Germany,18.61,1032320,J1c17
+I0106,ESP26,51.42,11.68,F,Europe_LNBA,Corded_Ware_Germany,MathiesonNature2015,plus,1240K.capture,"2464-2210 calBCE (3867±32 BP, MAMS-21490)",Esperstedt,Germany,0.224,230482,T2a1b1
+I0115,ESP3,51.42,11.68,F,Europe_LNBA,Unetice_EBA,MathiesonNature2015,plus,1240K.capture,"1954-1760 calBCE (3540±31 BP, MAMS-21494)",Esperstedt,Germany,0.409,365760,U5a1i
+I0116,ESP4,51.42,11.68,M,Europe_LNBA,Unetice_EBA,MathiesonNature2015,plus,1240K.capture,"2134-1939 calBCE (3650±32 BP, MAMS-21495)",Esperstedt,Germany,1.648,640413,W3a1
+I0803,EUL41,51.167663,11.847527,F,Europe_LNBA,Unetice_EBA,MathiesonNature2015,half,1240K.capture,"2132-1942 calBCE (3650±26 BP, MAMS-22822)",Eulau,Germany,0.228,224184,H4a1a1a
+I0804,EUL57,51.167663,11.847527,M,Europe_LNBA,Unetice_EBA,MathiesonNature2015,half,1240K.capture,"2137-1965 calBCE (3671±26 BP, MAMS-22821)",Eulau,Germany,0.054,62496,H3
+I0047,HAL16,51.89,11.04,F,Europe_LNBA,Unetice_EBA,MathiesonNature2015,half,1240K.capture,"2111-1891 calBCE (3612±30 BP, MAMS-21481)",Halberstadt-Sonntagsfeld,Germany,1.655,836247,V9
+I0048,HAL25,51.89,11.04,M,Europe_EN,LBK_EN,MathiesonNature2015,half,1240K.capture,"5211-5009 calBCE (6153±33 BP, MAMS-21482)",Halberstadt-Sonntagsfeld,Germany,0.456,422925,K1a
+I0057,HAL34,51.89,11.04,F,Europe_EN,LBK_EN,MathiesonNature2015,half,1240K.capture,"5218-5019 calBCE (6173±34 BP, MAMS-21483)",Halberstadt-Sonntagsfeld,Germany,0.139,151700,N1a1a1
+I0099,HAL36C,51.89,11.04,M,Europe_LNBA,Halberstadt_LBA,MathiesonNature2015,half,1240K.capture,"1193-979 calBCE (2889±30 BP, MAMS-21484)",Halberstadt-Sonntagsfeld,Germany,4.948,985957,H23
+I0046,HAL5,51.89,11.04,F,Europe_EN,LBK_EN,MathiesonNature2015,half,1240K.capture,"5212-4989 calBCE (6137±36 BP, MAMS-21479)",Halberstadt-Sonntagsfeld,Germany,1.945,907019,T2c1
+I0550,KAR22A,51.273,11.6559,F,Europe_LNBA,Karsdorf_LN,MathiesonNature2015,half,1240K.capture,"2570-2471 calBCE (3993±21 BP, MAMS-23344)",Karsdorf,Germany,0.15,166519,T1a1
+I0795,KAR6,51.273,11.6559,M,Europe_EN,LBK_EN,MathiesonNature2015,half,1240K.capture,"5216-5036 calBCE (6174±29 BP, MAMS-22823)",Karsdorf,Germany,0.097,107480,H1 or H1au1b
+I0559,QLB15D,51.79,11.14,M,Europe_MNChL,Baalberge_MN,MathiesonNature2015,half,1240K.capture,"3652-3527 calBCE (4815±26 BP, MAMS-22818)",Quedlinburg IX,Germany,0.163,178578,HV
+I0164,QUEVIII6,51.79,11.14,F,Europe_LNBA,Unetice_EBA,MathiesonNature2015,plus,1240K.capture,"2023-1894 calBCE (3599±25 BP, MAMS-21497)",Quedlinburg VIII,Germany,2.487,863754,U5b2a1b
+I0176,SZEH4,46.4,18.74,F,Europe_EN,LBKT_EN,MathiesonNature2015,plus,1240K.capture,"5207-4944 calBCE (6110±30 BP, Beta-310038)",Szemely-Hegyes,Hungary,0.066,71473,N1a1a1a3
+I0410,Troc3,42.5,0.5,M,Europe_EN,Iberia_EN,MathiesonNature2015,plus,1240K.capture,"5295-5066 calBCE (6217±25 BP, MAMS-16161)",Els Trocs,Spain,1.305,528396,T2c1d or T2c1d2
+I0413,Troc7,42.5,0.5,F,Europe_EN,Iberia_EN,MathiesonNature2015,plus,1240K.capture,"5302-5074 calBCE (6234±28 BP, MAMS-16166)",Els Trocs,Spain,1.572,657071,V
+I0061,UzOO74,61.65,35.65,M,EHG,Karelia_HG,MathiesonNature2015,plus,1240K.capture,"6850-6000 BCE [6270-6000 calBCE (7280±80 BP, OxA-1665); 6410-6050 calBCE (7350±90 BP, OxA-2266); 6390-6030 calBCE (7330±90 BP, OxA-1667); 6590-6240 calBCE (7560±90 BP, OxA-1668); 6590-6240 calBCE (7560±90 BP, OxA-1669); 6360-6000 calBCE (7280±90 BP, OxA-2124); 6530-6210 calBCE (7510±90 BP, OxA-2125); 6850-6410 calBCE (7750±110 BP, OxA-1973); layer date]","Yuzhnyy Oleni Ostrov, Karelia",Russia,5.272,1057094,C1
+I0246,SVP41,53.45,50.45,M,Steppe_EMBA,Potapovka,MathiesonNature2015,half,1240K.capture,"2469-1928 calBCE (3760±100 BP, AA-12568)","Utyevka VI, Samara_River, Samara",Russia,0.078,90021,C1
+I0247,SVP56,52.43,51.16,M,Steppe_IA,Scythian_IA,MathiesonNature2015,half,1240K.capture,"375-203 calBCE (2220±30 BP, Beta-392493)","Nadezhdinka, Volga Steppes, Samara",Russia,2.812,951695,G2a4
+I1498,"HUNG302, NE2",47.52,21.589,F,Europe_EN,Hungary_MN,MathiesonNature2015,half,1240K.capture,"5290-5060 calBCE (6207±30 BP, OxA-27858)",Debrecen Tocopart Erdoalja,Hungary,4.879,839760,H
+I1497,"HUNG353, CO1",47.167,19.833,F,Europe_MNChL,Hungary_Late_Copper_Age,MathiesonNature2015,half,1240K.capture,"2900-2700 calBCE (4421±27 BP, MAMS-14825)",Apc-Berekalya I,Hungary,4.563,843595,H
+I0726,"M15, M15.2, M15.2 / UF",40.26,29.65,F,Anatolia_N,Anatolia_Neolithic,MathiesonNature2015,half,1240K.capture,6400-5600 BCE,Mentese,Turkey,0.221,236641,H or H5-C16192T
+I0805,QLB26,51.79166667,11.14722222,M,Europe_LNBA,Bell_Beaker_Germany,MathiesonNature2015,half,1240K.capture,"2467-2142 calBCE (3839±55 BP, Er-8558)",Quedlinburg VII,Germany,0.232,231622,H1
+I0806,QLB28,51.79,11.14,M,Europe_LNBA,Bell_Beaker_Germany,MathiesonNature2015,half,1240K.capture,"2431-2150 calBCE (3824±25 BP, MAMS-22820)",Quedlinburg VII,Germany,0.13,142638,H1
+I0406,Mina4,41.2522,-2.32622,M,Europe_MNChL,Iberia_MN,MathiesonNature2015,plus,1240K.capture,3900-3600 BCE,La Mina,Spain,3.947,738288,H1
+I0374,"SVP16, NIK7",49.96666667,44.66666667,M,Steppe_EMBA,Poltavka,MathiesonNature2015,half,1240K.capture,2800-2200 BCE,"Nikolaevka III, Samara River, Samara",Russia,1.977,891602,H13a1a
+I0370,SVP10,51.27,58.18,M,Steppe_EMBA,Yamnaya_Samara,MathiesonNature2015,half,1240K.capture,3300-2700 BCE,"Ishkinovka I, Eastern Orenburg, Pre-Ural steppe, Samara",Russia,1.043,712941,H13a1a1
+I0112,QUEXII6,51.79,11.14,F,Europe_LNBA,Bell_Beaker_Germany,MathiesonNature2015,plus,1240K.capture,"2457-2142 calBCE (3820±42 BP, Er-7038)",Quedlinburg XII,Germany,3.768,985107,H13a1a2
+I0807,ESP30,51.42,11.68,M,Europe_MNChL,Baalberge_MN,MathiesonNature2015,half,1240K.capture,"3970-3710 calBCE (5061±62 BP, Er-7784)",Esperstedt,Germany,0.086,94260,H1e1a
+I1281,MIR18,42.33333333,-3.5,F,Europe_MNChL,Iberia_Chalcolithic,MathiesonNature2015,half,1240K.capture,"2865-2575 calBCE (4110±30 BP, Beta-416458)","El Mirador Cave, Atapuerca, Burgos",Spain,1.575,646025,H1t
+I0122,SVP35,52.22,48.1,M,Steppe_Eneolithic,Samara_Eneolithic,MathiesonNature2015,Mixed:half+plus,1240K.capture,5200-4000 BCE,"Khvalynsk II, Volga River, Samara",Russia,0.723,582950,H2a1
+I0441,SVP54,52.3,52.05,F,Steppe_EMBA,Yamnaya_Samara,MathiesonNature2015,half,1240K.capture,"3010-2622 calBCE (4234±60 BP, AA-47805)","Kurmanaevka III, Buzuluk, Samara",Russia,0.091,104430,H2b
+I0431,SVP40,53.08,50.36,F,Steppe_MLBA,Srubnaya,MathiesonNature2015,half,1240K.capture,1850-1600 BCE,"Spiridonovka II, Samara River, Samara",Russia,0.094,107284,H2b
+I1277,MIR14,42.33333333,-3.5,M,Europe_MNChL,Iberia_Chalcolithic,MathiesonNature2015,half,1240K.capture,"2568-2346 calBCE (3950±30 BP, Beta-416457)","El Mirador Cave, Atapuerca, Burgos",Spain,0.941,566637,H3
+I1282,MIR19,42.33333333,-3.5,M,Europe_MNChL,Iberia_Chalcolithic,MathiesonNature2015,half,1240K.capture,"2900-2346 BCE [2568-2346 calBCE (3950±30 BP, Beta-416457); 2857-2496 calBCE (4080±30 BP, Beta-416456); 2865-2575 calBCE (4110±30 BP, Beta-416458); 2900-2679 calBCE (4210±30 BP, Beta-416455); based on dates of other El Mirador samples)","El Mirador Cave, Atapuerca, Burgos",Spain,0.06,69288,H3
+I1284,MIR21,42.33333333,-3.5,M,Europe_MNChL,Iberia_Chalcolithic,MathiesonNature2015,half,1240K.capture,"2900-2346 BCE [2568-2346 calBCE (3950±30 BP, Beta-416457); 2857-2496 calBCE (4080±30 BP, Beta-416456); 2865-2575 calBCE (4110±30 BP, Beta-416458); 2900-2679 calBCE (4210±30 BP, Beta-416455); based on dates of other El Mirador samples)","El Mirador Cave, Atapuerca, Burgos",Spain,0.114,125450,H3
+I0111,ROT4,51.45,11.54,F,Europe_LNBA,Bell_Beaker_Germany,MathiesonNature2015,Mixed:half+plus,1240K.capture,"2475-2204 calBCE (3881±50 BP, Er-8712)",Rothenschirmbach,Germany,0.731,558181,H3ao
+I1276,MIR13,42.33333333,-3.5,F,Europe_MNChL,Iberia_Chalcolithic,MathiesonNature2015,half,1240K.capture,"2900-2346 BCE [2568-2346 calBCE (3950±30 BP, Beta-416457); 2857-2496 calBCE (4080±30 BP, Beta-416456); 2865-2575 calBCE (4110±30 BP, Beta-416458); 2900-2679 calBCE (4210±30 BP, Beta-416455); based on dates of other El Mirador samples)","El Mirador Cave, Atapuerca, Burgos",Spain,0.104,117488,H3c3
+I0430,SVP39,53.08,50.36,M,Steppe_MLBA,Srubnaya,MathiesonNature2015,half,1240K.capture,1850-1600 BCE,"Spiridonovka II, Samara River, Samara",Russia,3.21,881469,H3g
+I0797,KAR16A,51.28305556,11.65,M,Europe_EN,LBK_EN,MathiesonNature2015,half,1240K.capture,5500-4775 BCE,Karsdorf,Germany,0.087,95833,H46b
+I1580,L12-393,40.3,29.56666667,F,Anatolia_N,Anatolia_Neolithic,MathiesonNature2015,half,1240K.capture,6500-6200 BCE,Barcın,Turkey,2.903,934855,H5
+I0108,ROT6,51.45,11.54,F,Europe_LNBA,Bell_Beaker_Germany,MathiesonNature2015,Mixed:half+plus,1240K.capture,"2575-2299 calBCE (3953±47 BP, Er-8710)",Rothenschirmbach,Germany,1.197,764099,H5a3
+I0361,SVP9,53.03,50.39,M,Steppe_MLBA,Srubnaya,MathiesonNature2015,half,1240K.capture,1850-1200 BCE,"Spiridonovka IV, Samara River, Samara",Russia,0.448,415327,H5b
+I0358,SVP6,53.03,50.39,F,Steppe_MLBA,Srubnaya,MathiesonNature2015,half,1240K.capture,"1906-1631 calBCE (3455±56 BP, AA-47808)","Spiridonovka IV, Samara River, Samara",Russia,0.264,273856,H6a1a
+I0444,SVP58,53.1,51.13,M,Steppe_EMBA,Yamnaya_Samara,MathiesonNature2015,half,1240K.capture,"3335-2882 calBCE (4370±75 BP, AA-12570)","Kutuluk I, Kutuluk River, Samara",Russia,0.653,551461,H6a1b
+I0126,SVP51,53.31,51.15,M,Steppe_EMBA,Poltavka,MathiesonNature2015,half,1240K.capture,"2867-2486 calBCE (4081±54 BP, AA-53803)","Kutuluk III, Kutuluk River, Samara",Russia,0.347,339812,H6a2
+I0234,SVP25,53.14,50.01,F,Steppe_MLBA,Srubnaya,MathiesonNature2015,half,1240K.capture,1850-1600 BCE,"Rozhdestveno I, Samara Steppes, Samara",Russia,0.513,467183,I1a1
+I0440,SVP53,53.74,49.38,M,Steppe_EMBA,Poltavka,MathiesonNature2015,half,1240K.capture,"2887-2666 calBCE (4180±30 BP, Beta-392492)","Lopatino II, Sok River, Samara",Russia,4.953,1058753,I3a
+I1585,M11-59,40.3,29.56666667,F,Anatolia_N,Anatolia_Neolithic,MathiesonNature2015,half,1240K.capture,6500-6200 BCE,Barcın,Turkey,3.098,852587,J1 or J1c
+I1500,"HUNG372, NE5",47.167,20.833,M,Europe_EN,ALPC_Hungary_MN,MathiesonNature2015,half,1240K.capture,"5210-4990 calBCE (6164±64 BP,OxA-23763)",Kompolt-Kigyoser,Hungary,4.246,854790,J1c1
+I1280,MIR17,42.33333333,-3.5,F,Europe_MNChL,Iberia_Chalcolithic,MathiesonNature2015,half,1240K.capture,"2900-2346 BCE [2568-2346 calBCE (3950±30 BP, Beta-416457); 2857-2496 calBCE (4080±30 BP, Beta-416456); 2865-2575 calBCE (4110±30 BP, Beta-416458); 2900-2679 calBCE (4210±30 BP, Beta-416455); based on dates of other El Mirador samples)","El Mirador Cave, Atapuerca, Burgos",Spain,0.22,208463,J1c1
+I0744,M10-275,40.3,29.56666667,M,Anatolia_N,Anatolia_Neolithic,MathiesonNature2015,half,1240K.capture,6500-6200 BCE,Barcın,Turkey,2.39,907009,J1c11
+I1539,ESP25,51.42,11.68,F,Europe_LNBA,Corded_Ware_Germany,MathiesonNature2015,half,1240K.capture,"2625-2291 calBCE (3967±57 BP, Er-7779)",Esperstedt,Germany,0.132,143190,J1c1b1a
+I1532,ESP8,51.42,11.68,M,Europe_LNBA,Corded_Ware_Germany,MathiesonNature2015,half,1240K.capture,2500-2050 BCE,Esperstedt,Germany,0.566,475207,J1c2e
+I0113,QUEXII4,51.79,11.14,F,Europe_LNBA,Bell_Beaker_Germany,MathiesonNature2015,Mixed:half+plus,1240K.capture,"2346-2033 calBCE (3773±47 BP, Er-7283)",Quedlinburg XII,Germany,0.777,609165,J1c5
+I1505,"PF839/1198, NE4",47.88,21.192,F,Europe_EN,Hungary_Neolithic,MathiesonNature2015,half,1240K.capture,"5290-5050 calBCE (6153±33 BP, OxA-28020)",Polgar Ferenci hat,Hungary,3.494,797508,J1c5
+I1538,ESP20,51.42,11.68,M,Europe_LNBA,Corded_Ware_Germany,MathiesonNature2015,half,1240K.capture,2500-2050 BCE,Esperstedt,Germany,0.126,137950,J1c5
+I1540,ESP28,51.42,11.68,M,Europe_LNBA,Corded_Ware_Germany,MathiesonNature2015,half,1240K.capture,2500-2050 BCE,Esperstedt,Germany,0.298,291946,J1c5
+I1314,MIR26,42.33333333,-3.5,M,Europe_MNChL,Iberia_Chalcolithic,MathiesonNature2015,half,1240K.capture,"2900-2346 BCE [2568-2346 calBCE (3950±30 BP, Beta-416457); 2857-2496 calBCE (4080±30 BP, Beta-416456); 2865-2575 calBCE (4110±30 BP, Beta-416458); 2900-2679 calBCE (4210±30 BP, Beta-416455); based on dates of other El Mirador samples)","El Mirador Cave, Atapuerca, Burgos",Spain,0.268,224117,J2a1a1
+I1542,ESP33,51.42,11.68,M,Europe_LNBA,Corded_Ware_Germany,MathiesonNature2015,half,1240K.capture,2500-2050 BCE,Esperstedt,Germany,0.068,78085,J2a2a
+I0423,SVP31,52.54,50.5,M,Steppe_MLBA,Srubnaya_Outlier,MathiesonNature2015,half,1240K.capture,1850-1200 BCE,"Barinovka I, Samara River, Samara",Russia,0.485,418611,J2b1a2a
+I1508,"HUNG276, KO2",47.318741,21.527443,F,Europe_EN,Koros_Hungary_EN,MathiesonNature2015,half,1240K.capture,"5710-5570 calBCE (6726±35 BP, OxA-28101)",Berettyóújfalu-Morotva-Liget,Hungary,0.914,585392,K1a
+I1271,MIR1,42.33333333,-3.5,F,Europe_MNChL,Iberia_Chalcolithic,MathiesonNature2015,half,1240K.capture,"2900-2346 BCE [2568-2346 calBCE (3950±30 BP, Beta-416457); 2857-2496 calBCE (4080±30 BP, Beta-416456); 2865-2575 calBCE (4110±30 BP, Beta-416458); 2900-2679 calBCE (4210±30 BP, Beta-416455); based on dates of other El Mirador samples)","El Mirador Cave, Atapuerca, Burgos",Spain,0.241,239592,K1a
+I0746,L11-322,40.3,29.56666667,M,Anatolia_N,Anatolia_Neolithic,MathiesonNature2015,half,1240K.capture,6500-6200 BCE,Barcın,Turkey,8.465,1033308,K1a or K1a1
+I1100,M11-351,40.3,29.56666667,F,Anatolia_N,Anatolia_Neolithic,MathiesonNature2015,half,1240K.capture,6500-6200 BCE,Barcın,Turkey,0.331,304802,K1a or K1a6
+I1579,M13-72,40.3,29.56666667,F,Anatolia_N,Anatolia_Neolithic,MathiesonNature2015,half,1240K.capture,6500-6200 BCE,Barcın,Turkey,2.507,847361,K1a-C150T
+I1504,"HUNG381, BR2",47.82,19.95,M,Europe_LNBA,Late_Bronze_Age,MathiesonNature2015,half,1240K.capture,"1270-1110 calBCE (2769±24 BP, OxA-27859)",Ludas-Varju-Dulo,Hungary,1.332,704178,K1a1a
+I0405,Mina3,41.2522,-2.32622,M,Europe_MNChL,Iberia_MN,MathiesonNature2015,plus,1240K.capture,3900-3600 BCE,La Mina,Spain,0.377,327044,K1a1b1
+I1534,ESP14,51.42,11.68,M,Europe_LNBA,Corded_Ware_Germany,MathiesonNature2015,half,1240K.capture,2500-2050 BCE,Esperstedt,Germany,0.158,167366,K1a1b2a
+I0727,M24 / UA JK 16,40.26,29.65,M,Anatolia_N,Anatolia_Neolithic,MathiesonNature2015,half,1240K.capture,6400-5600 BCE,Mentese,Turkey,0.171,186798,K1a2
+I1550,HAL19,51.89,11.04,F,Europe_EN,LBK_EN,MathiesonNature2015,half,1240K.capture,5500-4775 BCE,Halberstadt-Sonntagsfeld,Germany,0.745,514954,K1a2
+I1583,L14-200,40.3,29.56666667,M,Anatolia_N,Anatolia_Neolithic,MathiesonNature2015,half,1240K.capture,6500-6200 BCE,Barcın,Turkey,9.396,1012449,K1a2
+I1300,MIR22,42.33333333,-3.5,F,Europe_MNChL,Iberia_Chalcolithic,MathiesonNature2015,half,1240K.capture,"2900-2346 BCE [2568-2346 calBCE (3950±30 BP, Beta-416457); 2857-2496 calBCE (4080±30 BP, Beta-416456); 2865-2575 calBCE (4110±30 BP, Beta-416458); 2900-2679 calBCE (4210±30 BP, Beta-416455); based on dates of other El Mirador samples)","El Mirador Cave, Atapuerca, Burgos",Spain,2.792,807280,K1a2a
+I0060,ROT3,51.45,11.54,F,Europe_LNBA,Bell_Beaker_Germany,MathiesonNature2015,plus,1240K.capture,"2428-2149 calBCE (3822±25 BP, MAMS-22819)",Rothenschirmbach,Germany,0.105,118605,K1a2c
+I1102,M11-354,40.3,29.56666667,M,Anatolia_N,Anatolia_Neolithic,MathiesonNature2015,half,1240K.capture,6500-6200 BCE,Barcın,Turkey,0.55,423429,K1a3a
+I1496,"HUNG352, NE6",47.167,19.833,M,Europe_EN,LBK_Hungary_MN,MathiesonNature2015,half,1240K.capture,"5300-4950 calBCE (6135±33 BP, MAMS-14821)",Apc-Berekalya I,Hungary,5.246,835911,K1a3a3
+I0724,T2 / UP,40.26,29.65,M,Anatolia_N,Anatolia_Neolithic,MathiesonNature2015,half,1240K.capture,6400-5600 BCE,Mentese,Turkey,0.231,239349,K1a4
+I0707,BAR2 / L11-213,40.3,29.56666667,F,Anatolia_N,Anatolia_Neolithic,MathiesonNature2015,half,1240K.capture,6500-6200 BCE,Barcın,Turkey,9.431,1026916,K1a4
+I1272,MIR2,42.33333333,-3.5,F,Europe_MNChL,Iberia_Chalcolithic,MathiesonNature2015,half,1240K.capture,"2857-2496 calBCE (4080±30 BP, Beta-416456)","El Mirador Cave, Atapuerca, Burgos",Spain,0.977,599689,K1b1a1
+I0407,Mina6,41.2522,-2.32622,F,Europe_MNChL,Iberia_MN,MathiesonNature2015,plus,1240K.capture,3900-3600 BCE,La Mina,Spain,1.363,567058,K1b1a1
+I1103,M11-S-350,40.3,29.56666667,M,Anatolia_N,Anatolia_Neolithic,MathiesonNature2015,half,1240K.capture,6500-6200 BCE,Barcın,Turkey,1.135,622029,K1b1b1
+I0235,SVP26,53.14,50.01,F,Steppe_MLBA,Srubnaya,MathiesonNature2015,half,1240K.capture,1850-1600 BCE,"Rozhdestvenno I, Samara Steppes, Samara",Russia,0.454,420407,K1b2a
+I1502,"HUNG370, BR1",47.167,20.833,F,Europe_LNBA,Hungary_Mako_EBA,MathiesonNature2015,half,1240K.capture,"2190-1980 calBCE (3686±28 BP,OxA-23799)",Kompolt-Kigyoser,Hungary,4.682,824420,K1c1
+I1544,ESP36,51.42,11.68,M,Europe_LNBA,Corded_Ware_Germany,MathiesonNature2015,half,1240K.capture,2500-2050 BCE,Esperstedt,Germany,0.104,117069,K2b2
+I1096,BAR26 / M10-76,40.3,29.56666667,M,Anatolia_N,Anatolia_Neolithic,MathiesonNature2015,half,1240K.capture,6500-6200 BCE,Barcın,Turkey,2.865,780073,N1a1a1
+I0100,HAL4,51.89,11.04,F,Europe_EN,LBK_EN,MathiesonNature2015,half,1240K.capture,"5202-4852 calBCE (6080±32 BP, KIA-40341)",Halberstadt-Sonntagsfeld,Germany,6.727,1002375,N1a1a1a
+I1495,"HUNG347, NE7",47.167,19.833,M,Europe_EN,Hungary_MN,MathiesonNature2015,half,1240K.capture,"4490-4360 calBCE (5598±32 BP, MAMS-14819)",Apc-Berekalya I,Hungary,4.853,854267,N1a1a1a
+I0736,L11-216,40.3,29.56666667,F,Anatolia_N,Anatolia_Neolithic,MathiesonNature2015,half,1240K.capture,6500-6200 BCE,Barcın,Turkey,2.248,825825,N1a1a1a
+I0659,HAL2,51.89,11.04,M,Europe_EN,LBK_EN,MathiesonNature2015,half,1240K.capture,"5211-4963 calBCE [5211-4963 calBCE (6130±39 BP, KIA-40350); 5209-4963 (6123±35 BP, KIA-30408)]",Halberstadt-Sonntagsfeld,Germany,0.703,582038,N1a1a1a2
+I0708,BAR6 / L11-439,40.3,29.56666667,M,Anatolia_N,Anatolia_Neolithic,MathiesonNature2015,half,1240K.capture,6500-6200 BCE,Barcın,Turkey,6.948,1007876,N1b1a
+I1507,"HUNG345a, KO1",47.93,21.2,M,WHG,Koros_Hungary_EN_HG,MathiesonNature2015,half,1240K.capture,"5780-5640 calBCE (6835±34 BP, OxA-23757)",Tiszaszolos-Domahaza,Hungary,5.103,824434,R1b1
+I0418,SVP24,53.45,50.45,F,Steppe_EMBA,Potapovka,MathiesonNature2015,half,1240K.capture,"2125-1769 calBCE (3583±52 BP, AA-53802)","Utyevka IV, Samara River, Samara",Russia,0.123,138537,T1a1
+I0422,SVP30,52.54,50.5,F,Steppe_MLBA,Srubnaya,MathiesonNature2015,half,1240K.capture,1850-1200 BCE,"Barinovka I, Samara River, Samara",Russia,1.372,750562,T1a1
+I1099,L11-S-488,40.3,29.56666667,M,Anatolia_N,Anatolia_Neolithic,MathiesonNature2015,half,1240K.capture,6500-6200 BCE,Barcın,Turkey,0.827,556176,T2b
+I0025,LBK1992,48.78,9.18,F,Europe_EN,LBK_EN,MathiesonNature2015,half,1240K.capture,5500-4800 BCE,"Viesenhaeuser Hof, Stuttgart-Muehlhausen",Germany,2.655,866455,T2b
+I0026,LBK2155,48.78,9.18,F,Europe_EN,LBK_EN,MathiesonNature2015,half,1240K.capture,5500-4800 BCE,"Viesenhaeuser Hof, Stuttgart-Muehlhausen",Germany,3.625,926521,T2b
+I1101,M11-352a,40.3,29.56666667,M,Anatolia_N,Anatolia_Neolithic,MathiesonNature2015,half,1240K.capture,6500-6200 BCE,Barcın,Turkey,1.56,680133,T2b
+I0424,SVP32,53.12,48.37,M,Steppe_MLBA,Srubnaya,MathiesonNature2015,half,1240K.capture,1850-1600 BCE,"Uvarovka I, Samara River, Samara",Russia,0.59,517489,T2b4
+I0429,SVP38,53.38,50.39,M,Steppe_EMBA,Yamnaya_Samara,MathiesonNature2015,half,1240K.capture,"3339-2918 calBCE (4432±66 BP, AA-47804) ","Lopatino I, Sok River, Samara",Russia,0.843,616123,T2c1a2
+I0022,LBK1976,48.78,9.18,F,Europe_EN,LBK_EN,MathiesonNature2015,half,1240K.capture,5500-4800 BCE,"Viesenhaeuser Hof, Stuttgart-Muehlhausen",Germany,0.441,379736,T2e
+I0560,QLB18A,51.79,11.14,F,Europe_MNChL,Baalberge_MN,MathiesonNature2015,half,1240K.capture,"3640-3376 calBCE (4745±52 BP, Er-7856)",Quedlinburg IX,Germany,0.407,389067,T2e1
+I0371,SVP11,53.34,50.34,M,Steppe_EMBA,Poltavka,MathiesonNature2015,half,1240K.capture,"2872-2583 calBCE (4130±30 BP, Beta-392488)","Grachevka II, Sok River, Samara",Russia,0.81,613900,U2d2
+I0012,Motala2,58.535,15.046,M,SHG,Motala_HG,MathiesonNature2015,plus,1240K.capture,"5714-5575 calBCE (6734±30 BP, Ua-51722)","Motala, Kanaljorden",Sweden,1.756,805855,U2e1
+I0017,Motala12,58.535,15.046,M,SHG,Motala_HG,MathiesonNature2015,plus,1240K.capture,"5721-5631 calBCE (6773±30 BP, Ua-51723)","Motala, Kanaljorden",Sweden,4.391,944923,U2e1
+I0419,SVP27,53.45,50.45,M,Steppe_MLBA,Potapovka,MathiesonNature2015,half,1240K.capture,2200-1900 BCE,"Utyevka VI, Samara River, Samara",Russia,0.516,474599,U2e1h
+I0709,BAR20/ M13-170,40.3,29.56666667,M,Anatolia_N,Anatolia_Neolithic,MathiesonNature2015,half,1240K.capture,6500-6200 BCE,Barcın,Turkey,9.765,1015958,U3
+I1581,L12-502,40.3,29.56666667,F,Anatolia_N,Anatolia_Neolithic,MathiesonNature2015,half,1240K.capture,6500-6200 BCE,Barcın,Turkey,2.803,853125,U3
+I1303,MIR25,42.33333333,-3.5,M,Europe_MNChL,Iberia_Chalcolithic,MathiesonNature2015,half,1240K.capture,"2900-2346 BCE [2568-2346 calBCE (3950±30 BP, Beta-416457); 2857-2496 calBCE (4080±30 BP, Beta-416456); 2865-2575 calBCE (4110±30 BP, Beta-416458); 2900-2679 calBCE (4210±30 BP, Beta-416455); based on dates of other El Mirador samples)","El Mirador Cave, Atapuerca, Burgos",Spain,0.733,468021,U3a1
+I0551,SALZ3B,51.520005,11.852407,M,Europe_MNChL,Salzmuende_MN,MathiesonNature2015,half,1240K.capture,3400-3025 BCE,Salzmuende-Schiebzig,Germany,0.091,104265,U3a1
+I0211,UzOO40,61.65,35.65,M,EHG,Karelia_HG,MathiesonNature2015,half,1240K.capture,5500-5000 BCE,"Yuzhnyy Oleni Ostrov, Karelia",Russia,0.136,149746,U4a
+I0231,SVP3,52.42,48.24,M,Steppe_EMBA,Yamnaya_Samara,MathiesonNature2015,half,1240K.capture,"2921-2762 calBCE (4260±30 BP, Beta-392487) ","Ekaterinovka, Southern Steppe, Samara",Russia,6.199,1099877,U4a1a or U4a1d
+I0434,SVP47,52.22,48.1,M,Steppe_Eneolithic,Samara_Eneolithic,MathiesonNature2015,half,1240K.capture,5200-4000 BCE,"Khvalynsk II, Volga River, Samara",Russia,0.053,62724,U4a2 or U4d
+I0011,Motala1,58.535,15.046,F,SHG,Motala_HG,MathiesonNature2015,plus,1240K.capture,"5721-5516 calBCE (6701±64 BP, Ua-42116)","Motala, Kanaljorden",Sweden,1.03,643050,U5a1
+I0013,Motala3,58.535,15.046,M,SHG,Motala_HG,MathiesonNature2015,plus,1240K.capture,"5964-5638 calBCE (6877±69 BP, Ua-42117)","Motala, Kanaljorden",Sweden,0.657,320332,U5a1
+I0354,SVP1,53.03,50.39,F,Steppe_EMBA,Srubnaya_Outlier,MathiesonNature2015,half,1240K.capture,"2014-1692 calBCE (3517±56 BP, AA-47809)","Spiridonovka IV, Samara River, Samara",Russia,0.39,385103,U5a1
+I0360,SVP8,53.03,50.39,M,Steppe_MLBA,Srubnaya,MathiesonNature2015,half,1240K.capture,1850-1200 BCE,"Spiridonovka IV, Samara River, Samara",Russia,0.049,58414,U5a1
+I0438,SVP50,53.38,50.38,M,Steppe_EMBA,Yamnaya_Samara,MathiesonNature2015,half,1240K.capture,"3021-2635 calBCE (4254±61 BP, AA-47807)","Luzkhi I, Samara River, Samara",Russia,0.736,579356,U5a1a1
+I0439,SVP52,53.38,50.39,M,Steppe_EMBA,Yamnaya_Samara,MathiesonNature2015,half,1240K.capture,"3321-2921 calBCE (4420±30 BP, Beta-392491)","Lopatino I, Sok River, Samara",Russia,0.26,273652,U5a1a1
+I0171,BZH12,51.82,10.91,F,Europe_LNBA,BenzigerodeHeimburg_LN,MathiesonNature2015,plus,1240K.capture,"2287-2041 calBCE (3758±33 BP, KIA-27952)",Benzingerode-Heimburg,Germany,0.143,144777,U5a1a2a
+I1546,BZH2,51.82,10.91,F,Europe_LNBA,Bell_Beaker_Germany,MathiesonNature2015,half,1240K.capture,2500-2050 BCE,Benzingerode-Heimburg,Germany,0.143,155325,U5a1b1
+I0432,SVP42,53.66,50.67,M,Steppe_MLBA,Poltavka_outlier,MathiesonNature2015,half,1240K.capture,"2925-2491 calBCE (4180±84 BP, AA-12569)","Potapovka I, Sok River, Samara",Russia,0.87,648053,U5a1c
+I0124,SVP44,53.4,50.4,M,EHG,Samara_HG,MathiesonNature2015,half,1240K.capture,"5657-5541 calBCE (6680±30 BP, Beta-392490)","Lebyanzhinka IV, Sok River, Samara",Russia,0.598,486585,U5a1d
+I0232,SVP12,48.1,54.44,M,Steppe_MLBA,Srubnaya,MathiesonNature2015,half,1240K.capture,1850-1200 BCE,"Novoselki, Northern Forest, Samara",Russia,8.202,1153002,U5a1f2
+I1536,ESP17,51.42,11.68,M,Europe_LNBA,Corded_Ware_Germany,MathiesonNature2015,half,1240K.capture,2500-2050 BCE,Esperstedt,Germany,0.105,116878,U5a1g
+I0433,SVP46,52.22,48.1,M,Steppe_Eneolithic,Samara_Eneolithic,MathiesonNature2015,half,1240K.capture,5200-4000 BCE,"Khvalynsk II, Volga River, Samara",Russia,0.476,440667,U5a1i
+I0359,SVP7,53.03,50.39,F,Steppe_MLBA,Srubnaya,MathiesonNature2015,half,1240K.capture,1850-1200 BCE,"Spiridonovka IV, Samara River, Samara",Russia,1.367,754432,U5a2a1
+I0014,Motala4,58.535,15.046,F,SHG,Motala_HG,MathiesonNature2015,plus,1240K.capture,"5877-5629 calBCE (6842±68 BP, Ua-42118)","Motala, Kanaljorden",Sweden,2.709,763001,U5a2d
+I0015,Motala6,58.535,15.046,M,SHG,Motala_HG,MathiesonNature2015,plus,1240K.capture,"5964-5629 calBCE (6863±75 BP, Ua-42120)","Motala, Kanaljorden",Sweden,1.562,611053,U5a2d
+I0408,Mina18,41.2522,-2.32622,F,Europe_MNChL,Iberia_MN,MathiesonNature2015,Mixed:half+plus,1240K.capture,3900-3600 BCE,La Mina,Spain,13.608,958102,U5b1
+I0585,LB1,42.911,-5.3778,M,WHG,Iberia_HG,MathiesonNature2015,half,1240K.capture,"5983-5747 calBCE (6980±50 BP, Beta-226472)","La Brana-Arintero, Leon",Spain,19.536,1057168,U5b2c
+I1506,"PF325, NE1",47.88,21.192,F,Europe_EN,LBK_Hungary_EN,MathiesonNature2015,half,1240K.capture,"5310-5070 calBCE (6237±32 BP, OxA-27861)",Polgar Ferenci hat,Hungary,1.517,729538,U5b2c
+I0745,M11-363,40.3,29.56666667,M,Anatolia_N,Anatolia_Neolithic,MathiesonNature2015,half,1240K.capture,6500-6200 BCE,Barcın,Turkey,7.785,1025390,U8b1b1
+I1097,BAR271 / M10-271,40.3,29.56666667,M,Anatolia_N,Anatolia_Neolithic,MathiesonNature2015,half,1240K.capture,6500-6200 BCE,Barcın,Turkey,2.125,776163,W1-T119C
+I1549,BZH15,51.82,10.91,F,Europe_LNBA,Bell_Beaker_Germany,MathiesonNature2015,half,1240K.capture,2500-2050 BCE,Benzingerode-Heimburg,Germany,2.357,809566,W1c1
+I0443,SVP57,53.38,50.38,M,Steppe_EMBA,Yamnaya_Samara,MathiesonNature2015,half,1240K.capture,3300-2700 BCE,"Lopatino II, Sok River, Samara",Russia,5.317,1025251,W3a1a
+I0357,SVP5,53.38,50.39,F,Steppe_EMBA,Yamnaya_Samara,MathiesonNature2015,half,1240K.capture,"3090-2913 calBCE (4380±30 BP, Beta-392489)","Lopatino I, Sok River, Samara",Russia,0.625,544122,W6c
+I1499,"HUNG86, NE3",48.52,21.168,F,Europe_EN,Bu_kk_Culture_Hungary_MN,MathiesonNature2015,half,1240K.capture,"5210-5010 calBCE (6185±34 BP, OxA-27732)",Garadna,Hungary,3.319,847840,X2b-T226C
+I0821,HAL24,51.89583333,11.04666667,M,Europe_EN,LBK_EN,MathiesonNature2015,half,1240K.capture,"5201-4850 calBCE (6076±34 BP, KIA-40348)",Halberstadt-Sonntagsfeld,Germany,0.116,128759,X2d1
+I1098,BAR99 / M10-352,40.3,29.56666667,F,Anatolia_N,Anatolia_Neolithic,MathiesonNature2015,half,1240K.capture,6500-6200 BCE,Barcın,Turkey,2.994,809388,X2d2
+I0723,"T1, M229 / UH",40.26,29.65,M,Anatolia_N,Anatolia_Neolithic,MathiesonNature2015,half,1240K.capture,6400-5600 BCE,Mentese,Turkey,1.213,720119,X2m2
+CB13,CB13,41.37,1.89,F,Europe_EN,Iberia_EN,OlaldeMBE2015,minus,Shotgun,"5469-5327 calBCE (6410±30, Beta-384724)","Cova Bonica, Vallirana, Barcelona",Spain,0.979,746511,K1a2a
+MA1,Malta1,52.9,103.5,M,MA1,MA1_HG,RaghavanNature2013,minus,Shotgun,"22570-22140 calBCE (20240±60 BP, UCIAMS-79666)",Mal'ta,Russia,1.206,841673,..
+Kostenki14,Kostenki14,51.23,39.3,M,Kostenki14,Kostenki14,SeguinOrlandoScience2014,minus,Shotgun,"36730-34310 calBCE (33250±500 BP, OxA-X-2395-15)",Kostenki,Russia,2.806,1104397,..
+I1949,GD37,34.45,48.116,M,Iran_N,Ganj_Dareh_Iran_Neolithic,This study (S1949.E1.L1),half,1240K.capture,8000-7700 BCE,Ganj Dareh,Iran,0.045,52242,..
+I1069,Nat5,32.65,35.067,M,Natufian,Israel_Natufian,This study (S1069.E1.L1),half,1240K.capture,11840-9760 BCE,Raqefet Cave,Israel,0.009,10288,..
+I1415,AG84/2,31.988,35.976,M,Levant_N,PPNB,This study (S1415.E1.L1),half,1240K.capture,"8197-7653 calBCE (8790±50 BP, Poz-81101)",'Ain Ghazal,Jordan,0.016,19435,..
+I1690,NAT6,32.65,35.067,M,Natufian,Israel_Natufian,This study (S1690.E1.L1),half,1240K.capture,11840-9760 BCE,Raqefet Cave,Israel,0.014,16866,..
+I1687,NAT13,32.65,35.067,F,Natufian,Israel_Natufian,This study (S1687.E1.L1),half,1240K.capture,"11520-11110 calBCE (11405±120 BP, RTK-6607)",Raqefet Cave,Israel,0.013,15422,..
+I1416,AG83/1,31.988,35.976,M,Levant_N,PPNB,This study (S1416.E1.L1),half,1240K.capture,8300-7900 BCE,'Ain Ghazal,Jordan,0.009,11289,..
+I1709,AG84_8,31.988,35.976,M,Levant_N,PPNB,This study (S1709.E1.L1),half,1240K.capture,8300-7900 BCE,'Ain Ghazal,Jordan,0.012,14816,..
+I1679,AG037C,31.988,35.976,F,Levant_N,PPNC,This study (S1679.E1.L1),half,1240K.capture,6900-6800 BCE,'Ain Ghazal,Jordan,0.04,47421,I
+I1944,GD14B,34.45,48.116,F,Iran_N,Ganj_Dareh_Iran_Neolithic,This study (S1944.E1.L1),half,1240K.capture,8000-7700 BCE,Ganj Dareh,Iran,0.017,19812,R2
+I1685,NAT4,32.65,35.067,M,Natufian,Israel_Natufian,This study (S1685.E1.L1),half,1240K.capture,11840-9760 BCE,Raqefet Cave,Israel,0.02,23472,J2a2
+I1700,AG88_1,31.988,35.976,M,Levant_N,PPNB,This study (S1700.E1.L1),half,1240K.capture,8300-7900 BCE,'Ain Ghazal,Jordan,0.019,22703,T1a2
+I1414,AG84/1,31.988,35.976,M,Levant_N,PPNB,This study (S1414.E1.L1),half,1240K.capture,8300-7900 BCE,'Ain Ghazal,Jordan,0.024,28156,K1a18
+I1951,GD39,34.45,48.116,F,Iran_N,Ganj_Dareh_Iran_Neolithic,This study (S1951.E1.L1),half,1240K.capture,"8202-7681 calBCE (8800±50 BP, Poz-81109)",Ganj Dareh,Iran,0.008,9056,HV0f
+I1701,AG83_3,31.988,35.976,F,Levant_N,PPNB,This study (S1701.E1.L1),half,1240K.capture,"7750-7569 calBCE (8620±50 BP, Poz-81094)",'Ain Ghazal,Jordan,0.009,11347,K1a18
+I1293,HotuIIIb,35.59,53.5,M,Iran_HotuIIIb,Iran_HotuIIIb,"This study (S1293.E1.L1, S1293.E1.L2, S1293.E1.L3, S1293.E1.L4)",Mixed:half+minus,1240K.capture,9100-8600 BCE (questionable direct date of 7250 ± 40 bp (6218-6034 calBCE)),Hotu Cave,Iran,0.139,150581,HV2
+I1727,AG_83_3082,31.988,35.976,M,Levant_N,PPNB,This study (S1727.E1.L1),half,1240K.capture,8300-7900 BCE,'Ain Ghazal,Jordan,0.041,47767,T1a2
+I0861,Nat10,32.65,35.067,M,Natufian,Israel_Natufian,"This study (S0861.E1.L3,S0861.E1.L2,S0861.E1.L1,S0861.E2.L1,S0861.E2.L2,S0861.E4.L2,S0861.E4.L1)",half,1240K.capture,11840-9760 BCE,Raqefet Cave,Israel,0.107,118389,J2a2
+I1407,ARE12.1,39.73,45.2,M,Armenia_ChL,Armenia_Chalcolithic,This study (S1407.E1.L1),half,1240K.capture,4350-3700 BCE,Areni1,Armenia,2.164,814272,H
+I1705,AG98_1,31.988,35.976,M,Levant_BA,Jordan_EBA,This study (S1705.E1.L1),half,1240K.capture,"2198-1966 calBCE (3690±35 BP, Poz-81096)",'Ain Ghazal,Jordan,2.037,720543,H14a
+I1633,KA1/14,40.65,45.1167,F,Armenia_EBA,Armenia_EBA,This study (S1633.E1.L1),half,1240K.capture,"2619-2410 calBCE (3990±35 BP, Poz-22234)",Kalavan,Armenia,3.342,859724,H1u
+I1661,SG16,34.5,47.96,F,Iran_ChL,Iran_Chalcolithic,This study (S1661.E1.L1),half,1240K.capture,"4696-4491 calBCE (5740±40 BP, Poz-81104)",Seh Gabi,Iran,1.849,795427,H29
+I1634,AR1/44,39.73,45.2,M,Armenia_ChL,Armenia_Chalcolithic,This study (S1634.E1.L1),half,1240K.capture,"4330-4060 calBCE (5366±31 BP, OxA-19331)",Areni1,Armenia,1.833,771623,H2a1
+I1674,SG21,34.5,47.96,M,Iran_ChL,Iran_Chalcolithic,This study (S1674.E1.L1),half,1240K.capture,"3972-3800 calBCE (5105±35 BP, Poz-81108)",Seh Gabi,Iran,0.915,640114,I1c
+I1945,GD16,34.45,48.116,M,Iran_N,Ganj_Dareh_Iran_Neolithic,This study (S1945.E1.L1),half,1240K.capture,8000-7700 BCE,Ganj Dareh,Iran,0.112,126090,J1c10
+I1662,SG7,34.5,47.96,M,Iran_ChL,Iran_Chalcolithic,This study (S1662.E1.L1),half,1240K.capture,"4831-4612 calBCE (5860±40 BP, Poz-81105)",Seh Gabi,Iran,0.906,622642,K1a12a
+I1671,SG2,34.5,47.96,M,Iran_LN,Iran_Late_Neolithic,"This study (S1671.E1.L2,S1671.E1.L1)",half,1240K.capture,"5837-5659 calBCE (6850±50 BP, OxA-33168)",Seh Gabi,Iran,0.663,532043,K1a12a
+I1584,M10-111,40.3,29.56666667,F,Anatolia_ChL,Anatolia_Chalcolithic,"This study (S1584.E1.L1, S1584.E1.L3, S1584.E1.L2)",half,1240K.capture,"3943-3708 calBCE (5016±31 BP, OxA-32776)",Barcın,Turkey,0.966,597854,K1a17
+I0867,Motz1,31.79,35.168,M,Levant_N,PPNB,"This study (S1629.E1.L1,S1629.E1.L2,S1629.E1.L3,S0867.E1.L3,S0867.E1.L2,S0867.E1.L1)",half,1240K.capture,7300-6750 BCE,Motza,Israel,2.087,772778,K1a4b
+I1631,AR1/43C,39.73,45.2,F,Armenia_ChL,Armenia_Chalcolithic,This study (S1631.E1.L1),half,1240K.capture,"4250-4050 calBCE (5323±30 BP, OxA-19332)",Areni1,Armenia,3.202,847507,K1a8
+I1632,AR1/46,39.73,45.2,M,Armenia_ChL,Armenia_Chalcolithic,This study (S1632.E1.L1),half,1240K.capture,"4230-4000 calBCE (5285±29 BP, OxA-18599) ",Areni1,Armenia,2.963,835863,K1a8
+I1072,NAT9,32.65,35.067,M,Natufian,Israel_Natufian,"This study (S1072.E3.L1,S1072.E3.L2,S1072.E2.L2,S1072.E2.L1,S1072.E1.L2,S1072.E1.L3,S1072.E1.L1,S1692.E1.L1)",half,1240K.capture,11840-9760 BCE,Raqefet Cave,Israel,0.526,442605,N1b
+I1707,AG83_5,31.988,35.976,M,Levant_N,PPNB,This study (S1707.E1.L1),half,1240K.capture,"7722-7541 calBCE (8590±50 BP, Poz-81097)",'Ain Ghazal,Jordan,0.142,152234,R0a
+I1730,AG_84_3083_116,31.988,35.976,M,Levant_BA,Jordan_EBA,This study (S1730.E1.L1),half,1240K.capture,"2489-2299 calBCE (3925±31 BP, OxA-32775)",'Ain Ghazal,Jordan,1.673,709491,R0a1a
+I1699,AG84_5,31.988,35.976,F,Levant_N,PPNC,This study (S1699.E1.L1),half,1240K.capture,6800-6700 BCE,'Ain Ghazal,Jordan,0.309,303496,R0a2
+I1704,AG89_1,31.988,35.976,F,Levant_N,PPNB,This study (S1704.E1.L1),half,1240K.capture,"7446-7058 calBCE (8190±60 BP, Poz-81095)",'Ain Ghazal,Jordan,0.164,172819,T1a
+I1656,Kat16,40.377222,43.938333,F,Armenia_MLBA,Armenia_MBA,This study (S1656.E1.L1),half,1240K.capture,"1501-1402 calBCE (3168±27 BP, OxA-31674)",Katnaghbiur Kurgan 1,Armenia,3.507,861643,T1a1'3
+I1710,AG83_6,31.988,35.976,M,Levant_N,PPNB,This study (S1710.E1.L1),half,1240K.capture,"7733-7526 calBCE (8580±60 BP, Poz-81098)",'Ain Ghazal,Jordan,0.117,129614,T1a2
+I1955,GD1150,34.45,48.116,F,Iran_recent,Ganj_Dareh_Iran_recent,This study (S1955.E1.L1),half,1240K.capture,"1430-1485 calCE (430±30 BP, Beta-432801)",Ganj Dareh,Iran,4.231,812079,U1a1
+I1670,SG11,34.5,47.96,F,Iran_ChL,Iran_Chalcolithic,"This study (S1670.E1.L2,S1670.E1.L3,S1670.E1.L1)",half,1240K.capture,"4839-4617 calBCE (5870±40 BP, Poz-81107)",Seh Gabi,Iran,0.132,147283,U3a'c
+I1658,TA3/R8,40.382958,43.873663,F,Armenia_EBA,Armenia_EBA,This study (S1658.E1.L1),half,1240K.capture,"3347-3092 calBCE (4492±29 BP, OxA-31874)",Talin,Armenia,3.408,845938,U3a2
+I1409,ARE20,39.73,45.2,F,Armenia_ChL,Armenia_Chalcolithic,This study (S1409.E1.L1),half,1240K.capture,"4229-3985 calBCE (5260±30 BP, Poz-81110)",Areni1,Armenia,0.083,95691,U4a
+I1665,SG19,34.5,47.96,F,Iran_ChL,Iran_Chalcolithic,This study (S1665.E1.L1),half,1240K.capture,"3956-3796 calBCE (5070±30 BP, Poz-81106)",Seh Gabi,Iran,1.477,758386,U7a
+I1290,GD13A,34.45,48.116,F,Iran_N,Ganj_Dareh_Iran_Neolithic,"This study (S1628.E1.L1,S1628.E1.L3,S1628.E1.L2,S1290.E1.L1,S1290.E1.L2,S1290.E1.L3)",half,1240K.capture,"8179-7613 calBCE (8780±50 BP, Poz-81100)",Ganj Dareh,Iran,2.098,870535,X2
+I1635,KA1/12,40.65,45.1167,M,Armenia_EBA,Armenia_EBA,This study (S1635.E1.L1),half,1240K.capture,"2619-2465 calBCE (4005±35 BP, Poz-81102)",Kalavan,Armenia,2.877,841677,X2f
+I1706,AG98_2,31.988,35.976,F,Levant_BA,Jordan_EBA,This study (S1706.E1.L1),half,1240K.capture,2490-2300 BCE,'Ain Ghazal,Jordan,3.749,718277,X2m

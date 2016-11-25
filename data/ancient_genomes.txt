@@ -1,0 +1,14 @@
+Ust-Ishim HG Siberia Paleolithic 44930 41260
+Kostenki HG Russia Paleolithic 36734 34312
+Bichon HG Switzerland Paleolithic 11820 11610
+Satsurblia HG Georgia Paleolithic 11430 11882
+Kotias HG Georgia Mesolithic 7945 7579
+WC1 EF Iran Neolithic 7455 7082
+Mentese EF Turkey Neolithic 6400 5600
+Barcin EF Turkey Neolithic 6419 6030
+Revenia EF Greece Neolithic 6438 6264
+Paliambela EF Greece Neolithic 4452 4350
+Kleitos EF Greece Neolithic 4230 3992
+Loschbour HG Luxembourg Mesolithic 6220 5990
+NE1 EF Hungary Neolithic 5310 5070
+LBK EF Germany Neolithic 5500 4800
